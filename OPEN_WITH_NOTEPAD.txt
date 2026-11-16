@@ -1,0 +1,32 @@
+ASIAN MUSEUMS — NOTEPAD CODE FILES
+Created by: Timothy Carillo
+
+THIS FOLDER CONTAINS PLAIN TEXT COPIES OF THE WEBSITE SOURCE CODE.
+
+FILES:
+- index_CODE.txt       = index.html source code (Home page)
+- about_CODE.txt       = about.html source code (About Us page)
+- museums_CODE.txt     = museums.html source code (10-museum gallery)
+- museum1_CODE.txt     = museum1.html source code
+- museum2_CODE.txt     = museum2.html source code
+- museum3_CODE.txt     = museum3.html source code
+- museum4_CODE.txt     = museum4.html source code
+- museum5_CODE.txt     = museum5.html source code
+- museum6_CODE.txt     = museum6.html source code
+- museum7_CODE.txt     = museum7.html source code
+- museum8_CODE.txt     = museum8.html source code
+- museum9_CODE.txt     = museum9.html source code
+- museum10_CODE.txt    = museum10.html source code
+- style_CSS_CODE.txt   = style.css source code
+
+HOW TO OPEN:
+1. Open this folder.
+2. Right-click any *_CODE.txt file.
+3. Choose Open with > Notepad.
+4. You can read, copy, or edit the code in Notepad.
+
+IMPORTANT:
+The .txt files are copies for viewing/editing code in Notepad.
+The actual website still uses the .html and .css files in the main folder.
+Do not delete or move the images folder, HTML pages, or style.css away from the website folder.
+This website version contains no JavaScript.
